@@ -1,0 +1,7 @@
+C:\Users\felip\OneDrive\Documentos\NEWSLETTER\obj\Debug\netcoreapp3.1\NEWSLETTER.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\NEWSLETTER\obj\Debug\netcoreapp3.1\NEWSLETTER.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\NEWSLETTER\obj\Debug\netcoreapp3.1\NEWSLETTER.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\NEWSLETTER\obj\Debug\netcoreapp3.1\NEWSLETTER.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\NEWSLETTER\obj\Debug\netcoreapp3.1\NEWSLETTER.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\OneDrive\Documentos\NEWSLETTER\obj\Debug\netcoreapp3.1\NEWSLETTER.RazorAssemblyInfo.cache
+C:\Users\felip\OneDrive\Documentos\NEWSLETTER\obj\Debug\netcoreapp3.1\NEWSLETTER.RazorAssemblyInfo.cs
