@@ -2,8 +2,8 @@ namespace NEWSLETTER.Models
 {
     public class Usuario
     {
-        string Nome {get; set;}
-        string Genero {get; set;}
-        string Email {get; set;}
+        public string Nome {get; set;}
+        public string Genero {get; set;}
+        public string Email {get; set;}
     }
 }
