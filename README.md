@@ -21,7 +21,7 @@
 <h2 align="center">Imagem</h2>
 
 <h1 aling="center">
-   <img alt="Readme" title="Readme" src="" />
+   <img alt="Readme" title="Readme" src="/img/README.png" />
 </h1>
 
   ### Tecnologias 🚀
