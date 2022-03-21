@@ -6,7 +6,7 @@
 
 <h1 align="center">Sobre o Projeto 👨🏻‍💻</h1>
 
-<h4 align="center">Site da Bmw em estagio de testes para ser um Framework para mim na criação de outros sites</h4>
+<h4 align="center">Modelo básico de Formulário para receber informaçoes de usuárioo e jogar no banco de dados</h4>
 
 <br>
 
